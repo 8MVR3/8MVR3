@@ -73,8 +73,17 @@
 ### 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8MVR3&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8MVR3&layout=compact&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8MVR3&theme=radical" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8MVR3&theme=radical" alt="Repos per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8MVR3&theme=radical" alt="Most Commit Language" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8MVR3&theme=radical" alt="Stats" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8MVR3&theme=radical&utcOffset=8" alt="Productive Time" width="48%"/>
 </p>
 
 <p align="center">
