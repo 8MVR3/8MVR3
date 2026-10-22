@@ -97,7 +97,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8MVR3&theme=radical" alt="Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8MVR3&theme=radical&utcOffset=8" alt="Productive Time" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8MVR3&theme=radical&utcOffset=3" alt="Productive Time" width="48%"/>
 </p>
 
 <p align="center">
