@@ -1,6 +1,6 @@
 # Привет!  Я Вячеслав Михолап
 
-![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=900&height=70&lines=MLOps+%7C+Computer+Vision;Computer+Vision+%7C+MLOps;Python+%7C+PyTorch+%7C+YOLO)
+![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=900&height=70&lines=MLOps+%7C+Computer+Vision;Python+%7C+PyTorch+%7C+YOLO)
 
 ### 🚀 Инженер: данные для компьютерного зрения, MLOps, автоматизация
 
